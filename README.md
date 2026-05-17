@@ -2,11 +2,13 @@
 
 Live Demo: https://antonio.hr/WebGL-Native-Mobile-Camera/
 
-<img width="175" height="414" alt="image" src="https://github.com/user-attachments/assets/92fac2a4-c95e-4ac0-9bf0-4219f4aeb669" />
-
-<img width="175" height="414" alt="image" src="https://github.com/user-attachments/assets/59ac6b11-fd00-47ca-aaf3-b8f60e51d712" />
-
-<img width="175" height="414" alt="image" src="https://github.com/user-attachments/assets/9f4e3a8a-d7e7-464b-94af-8ce86e3791e6" />
+<p align="center">
+  <img width="175" height="414" src="https://github.com/user-attachments/assets/92fac2a4-c95e-4ac0-9bf0-4219f4aeb669" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="175" height="414" src="https://github.com/user-attachments/assets/59ac6b11-fd00-47ca-aaf3-b8f60e51d712" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="175" height="414" src="https://github.com/user-attachments/assets/9f4e3a8a-d7e7-464b-94af-8ce86e3791e6" />
+</p>
 
 Open the real native phone camera in Unity WebGL without using low-quality browser camera streams.
 
